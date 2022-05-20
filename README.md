@@ -16,8 +16,7 @@ The visualisation of four concurrency and deadlock algorithms are available:
 
 ### Contributors:
 
-1. Jahnavi Lalwani
-2. Devesh Patel
-3. Aakash Bhandary
-4. Aakash Malvi
-5. Jay Sanghavi
+1. Jahnavi Lalwani (Frontend Developer)
+2. Devesh Patel (Frontend Developer)
+3. Aakash Malvi (Backend Developer)
+4. Jay Sanghavi (Backend Developer)
