@@ -13,6 +13,7 @@ The visualisation of four concurrency and deadlock algorithms are available:
 2. Peterson's Method
 3. Producer & Consumer Problem
 4. Test & Set Lock
+5. Sleeping Barber Problem
 
 ### Contributors:
 
